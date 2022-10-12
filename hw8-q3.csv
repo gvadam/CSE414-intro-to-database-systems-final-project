@@ -1,0 +1,327 @@
+    Atlanta GA, 0.03889
+    Chicago IL, 0.03456
+    Dallas/Fort Worth TX, 0.03341
+    Denver CO, 0.02628
+    Cincinnati OH, 0.02551
+    Houston TX, 0.025
+    Minneapolis MN, 0.02428
+    Detroit MI, 0.0209
+    Salt Lake City UT, 0.02018
+    New York NY, 0.01741
+    Newark NJ, 0.01647
+    Los Angeles CA, 0.01643
+    San Francisco CA, 0.01558
+    Phoenix AZ, 0.01471
+    Orlando FL, 0.01458
+    Las Vegas NV, 0.01408
+    Washington DC, 0.01383
+    Seattle WA, 0.01299
+    Charlotte NC, 0.01236
+    Baltimore MD, 0.01202
+    Cleveland OH, 0.01175
+    Tampa FL, 0.01175
+    Fort Lauderdale FL, 0.01137
+    Boston MA, 0.01102
+    Philadelphia PA, 0.01059
+    Miami FL, 0.00934
+    Anchorage AK, 0.00915
+    St. Louis MO, 0.00883
+    Memphis TN, 0.00882
+    Portland OR, 0.00875
+    San Diego CA, 0.00865
+    Nashville TN, 0.00846
+    Dallas TX, 0.00785
+    Kansas City MO, 0.00761
+    Austin TX, 0.00757
+    New Orleans LA, 0.00723
+    Oakland CA, 0.00635
+    San Antonio TX, 0.00618
+    Honolulu HI, 0.0061
+    Sacramento CA, 0.00594
+    Indianapolis IN, 0.0059
+    Pittsburgh PA, 0.0059
+    Albuquerque NM, 0.00585
+    Raleigh/Durham NC, 0.00576
+    San Jose CA, 0.00537
+    Milwaukee WI, 0.00536
+    Columbus OH, 0.00517
+    Fort Myers FL, 0.00489
+    Hartford CT, 0.00483
+    Birmingham AL, 0.00466
+    Jacksonville FL, 0.00449
+    Santa Ana CA, 0.00427
+    San Juan PR, 0.00419
+    Myrtle Beach SC, 0.00413
+    Louisville KY, 0.004
+    Reno NV, 0.00377
+    Oklahoma City OK, 0.00374
+    Kahului HI, 0.00368
+    West Palm Beach/Palm Beach FL, 0.00363
+    Norfolk VA, 0.00363
+    Buffalo NY, 0.00362
+    Ontario CA, 0.00358
+    Omaha NE, 0.00357
+    Juneau AK, 0.00348
+    Providence RI, 0.00344
+    Tulsa OK, 0.00342
+    El Paso TX, 0.00342
+    Richmond VA, 0.00331
+    Albany NY, 0.00328
+    Boise ID, 0.00323
+    Tucson AZ, 0.00307
+    Manchester NH, 0.00307
+    Little Rock AR, 0.003
+    Grand Rapids MI, 0.00299
+    Charleston SC, 0.0029
+    Long Beach CA, 0.00287
+    Dayton OH, 0.00283
+    Lexington KY, 0.00282
+    Greensboro/High Point NC, 0.00281
+    Rochester NY, 0.00275
+    Syracuse NY, 0.00266
+    Burbank CA, 0.00266
+    Fresno CA, 0.00264
+    Knoxville TN, 0.00264
+    Bozeman MT, 0.00257
+    Fayetteville AR, 0.00255
+    Trenton NJ, 0.00255
+    Spokane WA, 0.00251
+    Greer SC, 0.00245
+    Colorado Springs CO, 0.0024
+    Portland ME, 0.00238
+    Madison WI, 0.00235
+    Kona HI, 0.0023
+    Savannah GA, 0.00229
+    Akron OH, 0.00226
+    White Plains NY, 0.00224
+    Islip NY, 0.00221
+    Des Moines IA, 0.00217
+    Palm Springs CA, 0.00214
+    Huntsville AL, 0.00213
+    Columbia SC, 0.00211
+    Rapid City SD, 0.0021
+    Pensacola FL, 0.0021
+    Atlantic City NJ, 0.00209
+    Traverse City MI, 0.00208
+    Burlington VT, 0.00206
+    Jackson WY, 0.00205
+    Charlotte Amalie VI, 0.00203
+    Wichita KS, 0.00198
+    Santa Barbara CA, 0.00196
+    Ketchikan AK, 0.00196
+    Jackson/Vicksburg MS, 0.00194
+    Flint MI, 0.00192
+    Kalispell MT, 0.00191
+    Lihue HI, 0.00191
+    Green Bay WI, 0.00175
+    Fairbanks AK, 0.00173
+    Lubbock TX, 0.00173
+    Midland/Odessa TX, 0.00173
+    Panama City FL, 0.0017
+    Fargo ND, 0.0017
+    Cedar Rapids/Iowa City IA, 0.00166
+    Springfield MO, 0.00165
+    Tallahassee FL, 0.00159
+    Allentown/Bethlehem/Easton PA, 0.00156
+    Harrisburg PA, 0.00156
+    Sarasota/Bradenton FL, 0.00155
+    Medford OR, 0.0015
+    Missoula MT, 0.00148
+    Fort Wayne IN, 0.00147
+    Moline IL, 0.00145
+    South Bend IN, 0.00143
+    Charleston/Dunbar WV, 0.00142
+    Bakersfield CA, 0.00142
+    Gulfport/Biloxi MS, 0.0014
+    Amarillo TX, 0.00138
+    Petersburg AK, 0.00137
+    Sitka AK, 0.00137
+    Wrangell AK, 0.00137
+    Barrow AK, 0.00128
+    Mobile AL, 0.00128
+    Peoria IL, 0.00128
+    Yakutat AK, 0.00128
+    Shreveport LA, 0.00127
+    Appleton WI, 0.00127
+    Rochester MN, 0.00127
+    Sioux Falls SD, 0.00127
+    Chattanooga TN, 0.00127
+    Evansville IN, 0.00127
+    Pasco/Kennewick/Richland WA, 0.00126
+    Bloomington/Normal IL, 0.00126
+    Grand Junction CO, 0.00126
+    Monterey CA, 0.00126
+    Aspen CO, 0.00126
+    Baton Rouge LA, 0.00125
+    Valparaiso FL, 0.00125
+    Scranton/Wilkes-Barre PA, 0.00124
+    Eugene OR, 0.00124
+    Asheville NC, 0.00124
+    Bend/Redmond OR, 0.00124
+    Newport News/Williamsburg VA, 0.0012
+    Latrobe PA, 0.00119
+    Newburgh/Poughkeepsie NY, 0.00119
+    Bangor ME, 0.00117
+    Cordova AK, 0.00116
+    Meridian MS, 0.00109
+    Toledo OH, 0.00109
+    Bismarck/Mandan ND, 0.00109
+    Lincoln NE, 0.00109
+    Billings MT, 0.00109
+    Montgomery AL, 0.00108
+    Montrose/Delta CO, 0.00108
+    Eagle CO, 0.00108
+    State College PA, 0.00107
+    Lafayette LA, 0.00107
+    Lansing MI, 0.00106
+    King Salmon AK, 0.00106
+    Kotzebue AK, 0.00106
+    Adak Island AK, 0.00106
+    Charlottesville VA, 0.00106
+    Nome AK, 0.00106
+    Wilmington NC, 0.00103
+    Melbourne FL, 0.00103
+    Christiansted VI, 0.00102
+    Aguadilla PR, 9.9E-4
+    Nantucket MA, 9.8E-4
+    Deadhorse AK, 9.7E-4
+    Crescent City CA, 9.6E-4
+    Arcata/Eureka CA, 9.6E-4
+    Marquette MI, 9.4E-4
+    Iron Mountain/Kingsfd MI, 9.2E-4
+    International Falls MN, 9.2E-4
+    Rhinelander WI, 9.2E-4
+    Hibbing MN, 9.2E-4
+    Monroe LA, 9.0E-4
+    Devils Lake ND, 9.0E-4
+    Corpus Christi TX, 9.0E-4
+    Jamestown ND, 9.0E-4
+    Killeen TX, 9.0E-4
+    Alexandria LA, 9.0E-4
+    Roanoke VA, 8.9E-4
+    Cody WY, 8.9E-4
+    Champaign/Urbana IL, 8.9E-4
+    Idaho Falls ID, 8.9E-4
+    Great Falls MT, 8.9E-4
+    Helena MT, 8.9E-4
+    Sun Valley/Hailey/Ketchum ID, 8.8E-4
+    Williston ND, 8.8E-4
+    St. George UT, 8.8E-4
+    Saginaw/Bay City/Midland MI, 8.8E-4
+    Santa Fe NM, 8.8E-4
+    Hilo HI, 8.7E-4
+    Durango CO, 8.7E-4
+    Kalamazoo MI, 8.7E-4
+    Daytona Beach FL, 8.6E-4
+    San Luis Obispo CA, 8.5E-4
+    El Centro CA, 8.5E-4
+    Hattiesburg/Laurel MS, 8.4E-4
+    Harlingen/San Benito TX, 8.3E-4
+    Gustavus AK, 7.6E-4
+    Fort Smith AR, 7.2E-4
+    Columbia MO, 7.1E-4
+    Manhattan/Ft. Riley KS, 7.1E-4
+    Springfield IL, 7.1E-4
+    Tyler TX, 7.0E-4
+    Mission/McAllen/Edinburg TX, 7.0E-4
+    Casper WY, 7.0E-4
+    Beaumont/Port Arthur TX, 7.0E-4
+    Duluth MN, 7.0E-4
+    La Crosse WI, 7.0E-4
+    College Station/Bryan TX, 7.0E-4
+    Bristol/Johnson City/Kingsport TN, 7.0E-4
+    Laredo TX, 7.0E-4
+    Gillette WY, 7.0E-4
+    San Angelo TX, 7.0E-4
+    Lake Charles LA, 7.0E-4
+    Brownsville TX, 7.0E-4
+    Minot ND, 7.0E-4
+    North Bend/Coos Bay OR, 6.9E-4
+    Erie PA, 6.8E-4
+    Key West FL, 6.8E-4
+    Gunnison CO, 6.8E-4
+    Santa Maria CA, 6.8E-4
+    Gainesville FL, 6.8E-4
+    Elmira/Corning NY, 6.8E-4
+    Plattsburgh NY, 6.7E-4
+    Niagara Falls NY, 6.7E-4
+    Binghamton NY, 6.7E-4
+    Yuma AZ, 6.7E-4
+    Ponce PR, 6.5E-4
+    Worcester MA, 6.5E-4
+    Marthas Vineyard MA, 6.5E-4
+    Dillingham AK, 5.9E-4
+    Kodiak AK, 5.9E-4
+    Bethel AK, 5.9E-4
+    Visalia CA, 5.3E-4
+    Columbus GA, 5.2E-4
+    Augusta GA, 5.2E-4
+    Lewisburg WV, 5.2E-4
+    Lynchburg VA, 5.2E-4
+    Fayetteville NC, 5.2E-4
+    Naples FL, 5.2E-4
+    Brunswick GA, 5.2E-4
+    Jacksonville/Camp Lejeune NC, 5.2E-4
+    St. Augustine FL, 5.2E-4
+    Kinston NC, 5.2E-4
+    Valdosta GA, 5.2E-4
+    New Bern/Morehead/Beaufort NC, 5.2E-4
+    Hickory NC, 5.2E-4
+    Tupelo MS, 5.2E-4
+    Columbus MS, 5.2E-4
+    Albany GA, 5.2E-4
+    Macon GA, 5.2E-4
+    Dothan AL, 5.2E-4
+    Florence SC, 5.2E-4
+    Pago Pago TT, 5.1E-4
+    Longview TX, 5.1E-4
+    Butte MT, 5.1E-4
+    Garden City KS, 5.1E-4
+    Wichita Falls TX, 5.1E-4
+    Grand Island NE, 5.1E-4
+    Lewiston ID, 5.1E-4
+    Roswell NM, 5.1E-4
+    West Yellowstone MT, 5.1E-4
+    Pocatello ID, 5.1E-4
+    Cedar City UT, 5.1E-4
+    Waco TX, 5.1E-4
+    Abilene TX, 5.1E-4
+    Texarkana AR, 5.1E-4
+    Joplin MO, 5.1E-4
+    Aberdeen SD, 5.1E-4
+    Twin Falls ID, 5.1E-4
+    Grand Forks ND, 5.1E-4
+    Guam TT, 5.1E-4
+    Lawton/Fort Sill OK, 5.1E-4
+    Brainerd MN, 5.1E-4
+    Bemidji MN, 5.1E-4
+    Dickinson ND, 5.1E-4
+    Elko NV, 5.1E-4
+    Victoria TX, 5.0E-4
+    Modesto CA, 5.0E-4
+    Laramie WY, 5.0E-4
+    Chico CA, 5.0E-4
+    Paducah KY, 5.0E-4
+    Muskegon MI, 5.0E-4
+    Redding CA, 5.0E-4
+    Eau Claire WI, 5.0E-4
+    Hayden CO, 5.0E-4
+    Hancock/Houghton MI, 5.0E-4
+    Rock Springs WY, 5.0E-4
+    Dubuque IA, 5.0E-4
+    Hobbs NM, 5.0E-4
+    Hays KS, 5.0E-4
+    Sioux City IA, 5.0E-4
+    Waterloo IA, 5.0E-4
+    Mosinee WI, 5.0E-4
+    Alpena MI, 4.9E-4
+    Pellston MI, 4.9E-4
+    Inyokern CA, 4.9E-4
+    Oxnard/Ventura CA, 4.9E-4
+    Carlsbad CA, 4.9E-4
+    New Haven CT, 4.9E-4
+    Escanaba MI, 4.9E-4
+    Sault Ste. Marie MI, 4.9E-4
+    Ashland WV, 4.9E-4
+    Hyannis MA, 4.8E-4
+    Flagstaff AZ, 4.8E-4

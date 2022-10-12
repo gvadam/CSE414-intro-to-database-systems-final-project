@@ -1,0 +1,37 @@
+Using sqlite3, I typed up the code below after typing up .mode .csv, .headers off, .separator
+", ", and .once hw8-q1.csv
+The following code simply splits up the parts of the question into separate tables.
+
+WITH incoming AS ( 
+	SELECT F.dest_city AS in_city, COUNT(*) AS inc
+	FROM FLIGHTS AS F
+	GROUP BY F.dest_city
+),
+outgoing AS (
+	SELECT F.origin_city AS out_city, COUNT(*) AS out
+	FROM FLIGHTS AS F
+	GROUP BY F.origin_city
+),
+influxT AS (
+	SELECT I.in_city AS cityName, (I.inc - O.out) AS influx
+	FROM incoming AS I, outgoing AS O
+	WHERE I.in_city = O.out_city
+),
+maxAndMin AS (
+	SELECT MAX(T.influx) as maxI, MIN(T.influx) as minI
+	FROM influxT AS T
+),
+maxCity AS (
+	SELECT I.cityName AS name, M.maxI AS max
+	FROM influxT AS I, maxAndMin As M
+	WHERE I.influx = M.maxI
+),
+minCity AS (
+	SELECT I.cityName AS name, M.minI AS min
+	FROM influxT AS I, maxAndMin As M
+	WHERE I.influx = M.minI
+)
+SELECT M.name, M.max, N.name, N.min
+FROM maxCity AS M, minCity AS N;
+
+

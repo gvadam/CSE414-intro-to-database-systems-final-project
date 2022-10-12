@@ -1,0 +1,327 @@
+Aberdeen SD,1
+Abilene TX,1
+Adak Island AK,2
+Aguadilla PR,4
+Akron OH,11
+Albany GA,1
+Albany NY,17
+Albuquerque NM,31
+Alexandria LA,3
+Allentown/Bethlehem/Easton PA,7
+Alpena MI,1
+Amarillo TX,6
+Anchorage AK,30
+Appleton WI,5
+Arcata/Eureka CA,3
+Asheville NC,5
+Ashland WV,1
+Aspen CO,5
+Atlanta GA,171
+Atlantic City NJ,10
+Augusta GA,1
+Austin TX,41
+Bakersfield CA,6
+Baltimore MD,67
+Bangor ME,5
+Barrow AK,3
+Baton Rouge LA,5
+Beaumont/Port Arthur TX,2
+Bemidji MN,1
+Bend/Redmond OR,5
+Bethel AK,1
+Billings MT,4
+Binghamton NY,2
+Birmingham AL,25
+Bismarck/Mandan ND,4
+Bloomington/Normal IL,5
+Boise ID,16
+Boston MA,60
+Bozeman MT,12
+Brainerd MN,1
+Bristol/Johnson City/Kingsport TN,2
+Brownsville TX,2
+Brunswick GA,1
+Buffalo NY,19
+Burbank CA,13
+Burlington VT,10
+Butte MT,1
+Carlsbad CA,1
+Casper WY,2
+Cedar City UT,1
+Cedar Rapids/Iowa City IA,7
+Champaign/Urbana IL,3
+Charleston SC,15
+Charleston/Dunbar WV,6
+Charlotte Amalie VI,10
+Charlotte NC,68
+Charlottesville VA,4
+Chattanooga TN,5
+Chicago IL,161
+Chico CA,1
+Christiansted VI,4
+Cincinnati OH,127
+Cleveland OH,65
+Cody WY,3
+College Station/Bryan TX,2
+Colorado Springs CO,11
+Columbia MO,2
+Columbia SC,10
+Columbus GA,1
+Columbus MS,1
+Columbus OH,28
+Cordova AK,2
+Corpus Christi TX,3
+Crescent City CA,3
+Dallas TX,43
+Dallas/Fort Worth TX,149
+Dayton OH,14
+Daytona Beach FL,3
+Deadhorse AK,2
+Denver CO,125
+Des Moines IA,10
+Detroit MI,104
+Devils Lake ND,2
+Dickinson ND,1
+Dillingham AK,1
+Dothan AL,1
+Dubuque IA,1
+Duluth MN,2
+Durango CO,3
+Eagle CO,4
+Eau Claire WI,1
+El Centro CA,3
+El Paso TX,17
+Elko NV,1
+Elmira/Corning NY,2
+Erie PA,2
+Escanaba MI,1
+Eugene OR,5
+Evansville IN,5
+Fairbanks AK,6
+Fargo ND,7
+Fayetteville AR,12
+Fayetteville NC,1
+Flagstaff AZ,1
+Flint MI,9
+Florence SC,1
+Fort Lauderdale FL,60
+Fort Myers FL,26
+Fort Smith AR,2
+Fort Wayne IN,6
+Fresno CA,11
+Gainesville FL,2
+Garden City KS,1
+Gillette WY,2
+Grand Forks ND,1
+Grand Island NE,1
+Grand Junction CO,5
+Grand Rapids MI,15
+Great Falls MT,3
+Green Bay WI,7
+Greensboro/High Point NC,14
+Greer SC,12
+Guam TT,1
+Gulfport/Biloxi MS,6
+Gunnison CO,2
+Gustavus AK,1
+Hancock/Houghton MI,1
+Harlingen/San Benito TX,3
+Harrisburg PA,7
+Hartford CT,26
+Hattiesburg/Laurel MS,2
+Hayden CO,1
+Hays KS,1
+Helena MT,3
+Hibbing MN,2
+Hickory NC,1
+Hilo HI,3
+Hobbs NM,1
+Honolulu HI,28
+Houston TX,122
+Huntsville AL,10
+Hyannis MA,1
+Idaho Falls ID,3
+Indianapolis IN,32
+International Falls MN,2
+Inyokern CA,1
+Iron Mountain/Kingsfd MI,2
+Islip NY,11
+Jackson WY,9
+Jackson/Vicksburg MS,9
+Jacksonville FL,24
+Jacksonville/Camp Lejeune NC,1
+Jamestown ND,2
+Joplin MO,1
+Juneau AK,7
+Kahului HI,18
+Kalamazoo MI,3
+Kalispell MT,7
+Kansas City MO,42
+Ketchikan AK,4
+Key West FL,2
+Killeen TX,3
+King Salmon AK,2
+Kinston NC,1
+Knoxville TN,13
+Kodiak AK,1
+Kona HI,11
+Kotzebue AK,2
+La Crosse WI,2
+Lafayette LA,4
+Lake Charles LA,2
+Lansing MI,4
+Laramie WY,1
+Laredo TX,2
+Las Vegas NV,77
+Latrobe PA,5
+Lawton/Fort Sill OK,1
+Lewisburg WV,1
+Lewiston ID,1
+Lexington KY,14
+Lihue HI,9
+Lincoln NE,4
+Little Rock AR,15
+Long Beach CA,14
+Longview TX,1
+Los Angeles CA,81
+Louisville KY,21
+Lubbock TX,8
+Lynchburg VA,1
+Macon GA,1
+Madison WI,11
+Manchester NH,16
+Manhattan/Ft. Riley KS,2
+Marquette MI,3
+Marthas Vineyard MA,2
+Medford OR,6
+Melbourne FL,4
+Memphis TN,47
+Meridian MS,3
+Miami FL,50
+Midland/Odessa TX,8
+Milwaukee WI,29
+Minneapolis MN,112
+Minot ND,2
+Mission/McAllen/Edinburg TX,2
+Missoula MT,6
+Mobile AL,5
+Modesto CA,1
+Moline IL,6
+Monroe LA,3
+Monterey CA,5
+Montgomery AL,4
+Montrose/Delta CO,4
+Mosinee WI,1
+Muskegon MI,1
+Myrtle Beach SC,20
+Nantucket MA,4
+Naples FL,1
+Nashville TN,47
+New Bern/Morehead/Beaufort NC,1
+New Haven CT,1
+New Orleans LA,40
+New York NY,92
+Newark NJ,89
+Newburgh/Poughkeepsie NY,5
+Newport News/Williamsburg VA,5
+Niagara Falls NY,2
+Nome AK,2
+Norfolk VA,19
+North Bend/Coos Bay OR,2
+Oakland CA,34
+Oklahoma City OK,19
+Omaha NE,18
+Ontario CA,18
+Orlando FL,78
+Oxnard/Ventura CA,1
+Paducah KY,1
+Pago Pago TT,1
+Palm Springs CA,10
+Panama City FL,8
+Pasco/Kennewick/Richland WA,5
+Pellston MI,1
+Pensacola FL,10
+Peoria IL,5
+Petersburg AK,2
+Philadelphia PA,59
+Phoenix AZ,77
+Pittsburgh PA,32
+Plattsburgh NY,2
+Pocatello ID,1
+Ponce PR,2
+Portland ME,12
+Portland OR,46
+Providence RI,18
+Raleigh/Durham NC,31
+Rapid City SD,9
+Redding CA,1
+Reno NV,19
+Rhinelander WI,2
+Richmond VA,17
+Roanoke VA,3
+Rochester MN,5
+Rochester NY,14
+Rock Springs WY,1
+Roswell NM,1
+Sacramento CA,30
+Saginaw/Bay City/Midland MI,3
+Salt Lake City UT,92
+San Angelo TX,2
+San Antonio TX,33
+San Diego CA,47
+San Francisco CA,75
+San Jose CA,28
+San Juan PR,22
+San Luis Obispo CA,3
+Santa Ana CA,22
+Santa Barbara CA,9
+Santa Fe NM,3
+Santa Maria CA,2
+Sarasota/Bradenton FL,7
+Sault Ste. Marie MI,1
+Savannah GA,11
+Scranton/Wilkes-Barre PA,5
+Seattle WA,66
+Shreveport LA,5
+Sioux City IA,1
+Sioux Falls SD,5
+Sitka AK,3
+South Bend IN,6
+Spokane WA,12
+Springfield IL,2
+Springfield MO,7
+St. Augustine FL,1
+St. George UT,3
+St. Louis MO,49
+State College PA,4
+Sun Valley/Hailey/Ketchum ID,3
+Syracuse NY,13
+Tallahassee FL,7
+Tampa FL,65
+Texarkana AR,1
+Toledo OH,4
+Traverse City MI,9
+Trenton NJ,11
+Tucson AZ,15
+Tulsa OK,17
+Tupelo MS,1
+Twin Falls ID,1
+Tyler TX,2
+Valdosta GA,1
+Valparaiso FL,5
+Victoria TX,1
+Visalia CA,1
+Waco TX,1
+Washington DC,76
+Waterloo IA,1
+West Palm Beach/Palm Beach FL,19
+West Yellowstone MT,1
+White Plains NY,11
+Wichita Falls TX,1
+Wichita KS,9
+Williston ND,3
+Wilmington NC,4
+Worcester MA,2
+Wrangell AK,2
+Yakutat AK,2
+Yuma AZ,2

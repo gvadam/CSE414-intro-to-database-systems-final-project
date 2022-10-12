@@ -1,0 +1,18 @@
+I first used sqlite to find out what all of the values of d and f(d) are.
+The following code outputs two columns: the first column being the out-degree or d value and
+the second column is f(d) or the number of cities. In the csv file, I only include all of
+the d values and I replicate the values depending on their f(d) value. For example, if a row
+contains a d value of 50 and a f(d) value of 2, then in the csv file, there are two 50 values.
+I then used excel's built-in functions to create the histogram, setting up the features to
+include all the data in buckets.
+
+-- sqlite
+WITH first AS (
+	SELECT F.origin_city AS city, COUNT(*) AS numFlights
+	FROM FLIGHTS AS F
+	GROUP BY F.origin_city
+)
+SELECT O.numFlights AS d, COUNT(*) AS fd
+FROM first AS O
+GROUP BY O.numFlights
+ORDER BY O.numFlights;

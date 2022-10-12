@@ -1,0 +1,25 @@
+Answers: Seattle WA|Salt Lake City UT|Twin Falls ID|864 AND Seattle WA|Boise ID|Salt Lake City UT|Twin Falls ID|864
+I found two different paths that have the same distance. I typed up the following queries in sqlite and ran them
+separately.
+
+The first query below looks only at direct flights between the two cities. I did not find any paths.
+   -- no direct flights
+   SELECT F.origin_city, F.dest_city
+   FROM FLIGHTS AS F
+   WHERE F.origin_city = 'Seattle WA' AND F.dest_city = 'Twin Falls ID'
+   
+The second query checks paths with only one stop in-between. The shortest path I found stopped at Salt Lake City
+and only has a distance of 864 miles. 
+   -- Seattle WA|Salt Lake City UT|Twin Falls ID|864
+   SELECT DISTINCT F1.origin_city, F1.dest_city, F2.dest_city, F1.distance + F2.distance 
+   FROM FLIGHTS AS F1, FLIGHTS AS F2
+   WHERE F1.origin_city = 'Seattle WA' AND F1.dest_city = F2.origin_city AND F2.dest_city = 'Twin Falls ID'
+   ORDER BY F1.distance + F2.distance;
+
+I ran the third and last query to check if there are any more short paths with 2 stops in-between. I found one whose first stop is in
+Boise ID and the second stop is in Salt Lake City UT. The distance is also 864 miles.
+   -- Seattle WA|Boise ID|Salt Lake City UT|Twin Falls ID|864
+   SELECT DISTINCT F1.origin_city, F1.dest_city, F3.origin_city, F3.dest_city, F1.distance + F2.distance + F3.distance
+   FROM FLIGHTS AS F1, FLIGHTS AS F2, FLIGHTS AS F3
+   WHERE F1.origin_city = 'Seattle WA' AND F1.dest_city = F2.origin_city AND F2.dest_city = F3.origin_city AND F3.dest_city = 'Twin Falls ID'
+    
